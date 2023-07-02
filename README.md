@@ -1,4 +1,4 @@
-# SQL Homework - Employee Database: A Mystery in Two Parts
+# SQL Homework - Employee Database:A mystery
 ![sql](https://github.com/srinivasj1987/sql-challenge/assets/132161799/d583700b-cc09-4ac7-9fa5-35d8eae77e24)
 
 ## Background

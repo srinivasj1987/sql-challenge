@@ -65,8 +65,6 @@ Once you have a complete database, do the following:
 
 * Create a `.sql` file of your queries.
 
-* (Optional) Create a Jupyter Notebook of the bonus analysis.
-
 * Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
 
 ### Copyright
